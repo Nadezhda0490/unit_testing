@@ -1,0 +1,16 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "\"# unit_testing\"",
+  "license": "ISC",
+  "author": "Nadezhda",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^5.2.1",
+    "mocha": "^11.7.1"
+  }
+}
